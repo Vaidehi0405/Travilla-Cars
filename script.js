@@ -486,7 +486,7 @@ const chatBtn = document.getElementById("chat-btn");
     });
 
     async function fetchAIResponse(message) {
-      const API_KEY = "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"; // Replace with your actual API key
+      const API_KEY = " "; // Replace with your actual API key
 
       try {
         const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
