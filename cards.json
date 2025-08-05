@@ -1,0 +1,68 @@
+{
+    "cards":[
+        {   "image":"assests/car3.png",
+            "rating":"4.98(432)", 
+            "title":"California Sunset/Twilight Boat Cruise",
+            "location":"Manchester, England",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"7 seats",
+            "price":"$400"
+        },
+        
+        {
+            "image":"assests/car4.png",
+            "rating":"4.8(32)", 
+            "title":"San Francisco Bridge Tour",
+            "location":"San Francisco, California",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"5 seats",
+            "price":"$300"
+        },
+        {
+            "image":"assests/car5.png",
+            "rating":"4.8(32)", 
+            "title":"San Francisco Bridge Tour",
+            "location":"San Francisco, California",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"5 seats",
+            "price":"$300"
+        },{
+            "image":"assests/car6.png",
+            "rating":"4.8(32)", 
+            "title":"San Francisco Bridge Tour",
+            "location":"San Francisco, California",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"5 seats",
+            "price":"$300"
+        },{
+            "image":"assests/car7.png",
+            "rating":"4.8(32)", 
+            "title":"San Francisco Bridge Tour",
+            "location":"San Francisco, California",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"5 seats",
+            "price":"$300"
+        } ,
+        {
+            "image":"assests/suv.png",
+            "rating":"4.8(32)", 
+            "title":"San Francisco Bridge Tour",
+            "location":"San Francisco, California",
+            "distanceCovered":"30,000 mi",
+            "gearType":"Automatic",
+            "fuelType":"Petrol",
+            "seats":"5 seats",
+            "price":"$300"
+        } 
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "services": [
+      {
+        "title": "Chauffeur Hailing",
+        "image": "assests/img7.png",
+        "serviceCount": 17
+      },
+      {
+        "title": "Airport Transfer",
+        "image": "assests/image copy 7.png",
+        "serviceCount": 20
+      },
+      {
+        "title": "Corporate Fleet",
+        "image": "assests/image copy 9.png",
+        "serviceCount": 12
+      }
+      ,
+      {
+        "title": "Corporate Fleet",
+        "image": "assests/image copy 10.png",
+        "serviceCount": 12
+      }
+    ]
+  }

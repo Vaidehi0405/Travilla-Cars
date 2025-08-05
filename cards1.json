@@ -1,0 +1,39 @@
+{
+    "testimonials": [
+        {
+            "rating": "Reliable and Affordable",
+            "text": "I was in town for a business trip and needed a reliable car to get to meetings. The options were excellent, and the vehicle I selected was impeccably clean and comfortable. Pickup and drop-off were effortless, which is exactly what I needed with my busy schedule.",
+            "image": "assests/p1.jpg",
+            "name": "Ryan",
+            "location": "Malibu, CA"
+        },
+        {
+            "rating": "Perfect for Solo Travel",
+            "text": "I rented a car for a two-week solo road trip, and it was the best decision. The vehicle was in excellent condition, fuel-efficient, and came with GPS, which made navigating new cities stress-free. The customer service was top-notch—they answered all my questions and even helped me plan my route.The customer service was top-notch.",
+            "image": "assests/image.jpg",
+            "name": "Jcob Smith",
+            "location": "New York, NY"
+        },
+        {
+            "rating": "Family-Friendly Car Rentals",
+            "text": "Our family trip wouldn’t have been the same without this car rental agency. The booking process was smooth, and the car we rented was spotless and reliable. With two kids and tons of luggage in tow, we needed space and comfort, and they delivered both! The team even provided us with great tips for local attractions.",
+            "image": "assests/p3.jpg",
+            "name": "Sara Mohamed",
+            "location": "Malibu, CA"
+        },
+        {
+            "rating": "Affordable and Hassle-Free",
+            "text": "This car rental agency proved to be such great value! Not only were their rates super affordable, but the car we rented ran flawlessly for our week-long trip. The customer support team was friendly and ensured the process was completely hassle-free. I’ve already recommended them to my friends!",
+            "image": "assests/p2.jpg",
+            "name": "Sasha",
+            "location": "Cali, Colombia"
+        },
+        {
+            "rating": "Reliable and Affordable",
+            "text": "I was in town for a business trip and needed a reliable car to get to meetings. The options were excellent, and the vehicle I selected was impeccably clean and comfortable. Pickup and drop-off were effortless, which is exactly what I needed with my busy schedule.The customer service was top-notch",
+            "image": "assests/p1.jpg",
+            "name": "Ryan",
+            "location": "Malibu, CA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "slides": [
+      {
+        "image": "assests/bg1.jpg",
+        "title": "Reliable Rides for the Adventurous Desert Wanderer",
+        "description": "Conquer the sands in climate-controlled comfort"
+      },
+      {
+        "image": "assests/bg2.jpg",
+        "title": "Conquer Winter Peaks with Our All-Wheel Drive Fleet",
+        "description": "Your key to safe and stylish winter adventures"
+      },
+      {
+        "image": "assests/bg3.jpg",
+        "title": "Blaze New Paths with Our Rugged All-Terrain Fleet",
+        "description": "Where the pavement ends, your journey begins"
+      },
+      {
+        "image": "assests/bg4.jpg",
+        "title": "Glide Through Sandstorms in Our Storm-Ready Rentals",
+        "description": "Turning sandy drives into smooth sailing"
+      }
+    ]
+  }

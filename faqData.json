@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "question": "What documents do I need for my trip, and how do I obtain them?",
+      "answer": "Provide a step-by-step guide on how users can make a booking through your platform. Include information about selecting dates, choosing room types, entering guest information, and completing the booking process. Mention any special features or discounts available."
+    },
+    {
+      "id": 2,
+      "question": "How do I modify or cancel my booking?",
+      "answer": "Explain the process for making changes or canceling bookings. Include terms and conditions, such as deadlines for free cancellations and fees for late changes."
+    },
+    {
+      "id": 3,
+      "question": "What payment methods are accepted?",
+      "answer": "List the payment methods available, including credit/debit cards, wallets, and online banking. Mention any offers like cashbacks or discounts."
+    }
+  ]
